@@ -1,4 +1,12 @@
-cm-utils adds coroutine-like process constructs for realtime common
+# This Repository is deprecated!
+
+  The cm-utils repository has been completely integrated into
+  [Clamps](https://codeberg.org/ormf/clamps) and is developed
+  there. The archive here is kept for historical reasons only. This
+  archive will not receive further updates or patches. Issues and pull
+  requests will not be looked at here either, please submit your
+  patches and issue tickets on the Clamps repository on Codeberg, or
+  send them directly via good old email patches to the author.cm-utils adds coroutine-like process constructs for realtime common
 music 2. It allows for a more general concept of a process. Unlike
 cm's process macro, which is akin common lisp's loop macro, rt-proc
 will work on arbitrary lisp bodys enabling multiple waits and
